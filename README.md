@@ -2,3 +2,4 @@
 
 İnternet sayfama Hoşgeldiniz.
 =============================
+<?php phpinfo(); ?>
